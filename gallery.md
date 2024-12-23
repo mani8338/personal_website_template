@@ -11,22 +11,22 @@ gallery:
     image_path: /assets/images/fe.jpg
     alt: "placeholder image fe"
     title: "فردوسی"
-  - url: /assets/images/2.jpg
-    image_path: /assets/images/2.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/3.jpg
-    image_path: /assets/images/3.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"  
-  - url: /assets/images/4.jpg
-    image_path: /assets/images/4.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
-  - url: /assets/images/5.jpg
-    image_path: /assets/images/5.jpg
-    alt: "placeholder image 5"
-    title: "Image 5 title caption"    
+  - url: /assets/images/ro.jpg
+    image_path: /assets/images/ro.jpg
+    alt: "placeholder image ro"
+    title: "رستم"
+  - url: /assets/images/ka.jpg
+    image_path: /assets/images/ka.jpg
+    alt: "placeholder image ka"
+    title: "درفش کاویانی"  
+  - url: /assets/images/sh.jpg
+    image_path: /assets/images/sh.jpg
+    alt: "placeholder image sh"
+    title: "شاهنامه فردوسی"
+  - url: /assets/images/da.jpg
+    image_path: /assets/images/da.jpg
+    alt: "placeholder image da"
+    title: "دریغ است ایران که ویران شود   کنام پلنگان و شیران شود"    
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
