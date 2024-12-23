@@ -1,9 +1,9 @@
 ---
 layout: single
 author_profile: true
-permalink: /courses I have/
+permalink: /courses/
 title: Courses I have
-tags: [Studying, courses I have]
+tags: [Studying, courses]
 modified: 9-14-2019
 comments: false
 ---
