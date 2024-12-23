@@ -11,14 +11,11 @@ title: شاهنامه فردوسی راهکار گیتی
 - چهان جهان دیگری را سپرد-به جز درد و اندوه چیزی نبرد
 - چنینیم یکسر که و مه همه-تو خواهی شبان باش و خواهی رمه
 
-[my favorite website](http://www.google.com)
-
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+[my favorite website](https://readingferdowsi.com/)
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+
 
 ---
 **Test**: This is atest
