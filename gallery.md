@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /gallery/
+permalink: /gallery Iran/
 title: Gallery Iran
 tags: [gallery]
 modified: 9-14-2019
