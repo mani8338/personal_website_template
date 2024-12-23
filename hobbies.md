@@ -9,6 +9,6 @@ comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* [learning new things](https://www.linkedin.com/pulse/7-reasons-why-learning-new-things-important-adam-sargeson)
 
 
