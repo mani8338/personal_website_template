@@ -10,5 +10,6 @@ comments: false
 
 
 * [learning new things](https://www.linkedin.com/pulse/7-reasons-why-learning-new-things-important-adam-sargeson)
+* [game](https://www.rockstargames.com/reddeadredemption2)
 
 
