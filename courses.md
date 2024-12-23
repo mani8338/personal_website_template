@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 permalink: /courses I have/
 title: Courses I have
-tags: [Studying, courses]
+tags: [Studying, courses I have]
 modified: 9-14-2019
 comments: false
 ---
