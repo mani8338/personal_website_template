@@ -115,7 +115,7 @@ author:
   twitter: ManiManib25255
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
-  github: fc-hw-start-mani8338
+  
   instagram: mani.b.2583
   links:
     - label: "Email"
@@ -130,9 +130,6 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
