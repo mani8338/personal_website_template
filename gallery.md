@@ -11,9 +11,9 @@ gallery:
     image_path: /assets/images/fe.jpg
     alt: "placeholder image fe"
     title: "فردوسی"
-  - url: /assets/images/ro.jpg
-    image_path: /assets/images/ro.jpg
-    alt: "placeholder image ro"
+  - url: /assets/images/ros.jpg
+    image_path: /assets/images/ros.jpg
+    alt: "placeholder image ros"
     title: "رستم"
   - url: /assets/images/ka.jpg
     image_path: /assets/images/ka.jpg
