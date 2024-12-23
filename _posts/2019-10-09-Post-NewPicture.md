@@ -1,23 +1,27 @@
 ---
 layout: posts
-title: Test Post
+title: سنگ نبشته بیستون
 ---
 
-## This is my team at Microsoft
+## These are the people in picture
 People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+- داریوش بزرگ
+- گئومات مغ
+- آثین
+- ندی تبئیر
+- فرورتیش
+- مرتیی
+- چبثتخم
+- وهیزدات
+- ارخ
+- فراد
+- سکوخ
 
-[my favorite website](http://www.google.com)
-
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+
+![alt text](../assets/images/bi.jpg "Dariush shah gooyad")
 
 ---
 **Test**: This is atest
