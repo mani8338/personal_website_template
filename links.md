@@ -9,8 +9,8 @@ comments: false
 ---
 
 
-* [Favorite Author](http://myfavoritauthor.com)
-* [Places I want to visit](http://iwanttovisit.com)
-* [My home city](http://homecity.com)
+* [Favorite Site](https://readingferdowsi.com/)
+* [Places I want to visit](https://en.wikipedia.org/wiki/Persepolis)
+* [My home city](https://en.wikipedia.org/wiki/Zanjan,_Iran)
 * [My university](https://en.wikipedia.org/wiki/Iran_University_of_Science_and_Technology)
 
