@@ -47,8 +47,8 @@ gallery:
     image_path: /assets/images/SN.jpg
     alt: "placeholder image SN"
     title: "Supernova1054"
-  - url: /assets/images/M.jpg
-    image_path: /assets/images/M.jpg
+  - url: /assets/images/M.JPG
+    image_path: /assets/images/M.JPG
     alt: "placeholder image M"
     title: "The Milky Way Galaxy"
 
