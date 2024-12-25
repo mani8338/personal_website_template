@@ -35,6 +35,14 @@ gallery:
     image_path: /assets/images/K.jpg
     alt: "placeholder image K"
     title: کوروش بزرگ
+  - url: /assets/images/shap.JPG
+    image_path: /assets/images/shap.JPG
+    alt: "placeholder image shap"
+    title: شاپور یکم پسر اردشیر بابکان
+  - url: /assets/images/kh.JPG
+    image_path: /assets/images/kh.JPG
+    alt: "placeholder image kh"
+    title: خشایارشا شاه شاهان
   - url: /assets/images/bio-photo1.jpg
     image_path: /assets/images/bio-photo1.jpg
     alt: "placeholder image bio-photo1"
