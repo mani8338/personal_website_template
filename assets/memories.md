@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 permalink: /memories/
 title: will_be_updated
-tags: [khatere]
+tags: [memories]
 modified: 4-10-2024
 comments: true
 ---
