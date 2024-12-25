@@ -9,30 +9,15 @@ comments: false
 ---
 
 
-# movies
-upgrade
-troy
-
-
-## Some places in Tehran
-
-
-### Azadi
-### Enghelab
-
-- one day I'll go there
-- I already have
-
-My favorite website is [this](https://readingferdowsi.com/).
-
-
-## Esfahan
-nesh jahan
+# feils of study 
+Computer Engineering
+Mathematics [this](https://youtu.be/8hl5uZT41RY?si=YBS3nJx4ibs6JiRe)
+Physics and Astronemy
+History
+Shahname My favorite website is [this](https://readingferdowsi.com/).
 
 
 
-
-<iframe width="1691" height="680" src="https://www.youtube.com/embed/LOTtWzX3Wp4" title="The STRANGE Reason He's The World's Best Climber" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+![math](https://img.freepik.com/premium-vector/mathematics-vector-concept-round-outline-colored-illustration_104589-1426.jpg?semt=ais_hybrid)
 
 
