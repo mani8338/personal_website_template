@@ -35,6 +35,11 @@ gallery:
     image_path: /assets/images/K.jpg
     alt: "placeholder image K"
     title: کوروش بزرگ
+  - url: /assets/images/bio-photo1.jpg
+    image_path: /assets/images/bio-photo1.jpg
+    alt: "placeholder image bio-photo1"
+    title: "The Andromeda Galaxy"
+
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
