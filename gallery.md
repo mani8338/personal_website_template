@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 permalink: /gallery/
-title: Gallery Iran History
+title: Iran History and Astronemy
 tags: [gallery]
 modified: 9-14-2019
 comments: false
@@ -39,6 +39,19 @@ gallery:
     image_path: /assets/images/bio-photo1.jpg
     alt: "placeholder image bio-photo1"
     title: "The Andromeda Galaxy"
+  - url: /assets/images/j.PNG
+    image_path: /assets/images/j.PNG
+    alt: "placeholder image j"
+    title: "Jupiter photo taken by JWST"
+  - url: /assets/images/SN.jpg
+    image_path: /assets/images/SN.jpg
+    alt: "placeholder image SN"
+    title: "Supernova1054"
+  - url: /assets/images/M.jpg
+    image_path: /assets/images/M.jpg
+    alt: "placeholder image M"
+    title: "The Milky Way Galaxy"
+
 
 ---
 
