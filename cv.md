@@ -10,11 +10,11 @@ comments: false
 
 
 # feils of study 
-Computer Engineering
-Mathematics [this](https://youtu.be/8hl5uZT41RY?si=YBS3nJx4ibs6JiRe)
-Physics and Astronemy
-History
-Shahname My favorite website is [this](https://readingferdowsi.com/).
+- Computer Engineering
+- Mathematics [this](https://youtu.be/8hl5uZT41RY?si=YBS3nJx4ibs6JiRe)
+- Physics and Astronemy
+- History
+- Shahname My favorite website is [this](https://readingferdowsi.com/).
 
 
 
