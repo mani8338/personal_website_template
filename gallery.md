@@ -84,7 +84,7 @@ gallery:
 
 ---
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="These are the stuff that I spend a lot of time with." %}
 
 
 
