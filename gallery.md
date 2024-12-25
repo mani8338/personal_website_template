@@ -71,6 +71,10 @@ gallery:
     image_path: /assets/images/12.jpg
     alt: "placeholder image 12"
     title: "Space is beautiful"
+  - url: /assets/images/sa.jpg
+    image_path: /assets/images/sa.jpg
+    alt: "placeholder image sa"
+    title: "Saturn the most beautiful planet in the solar system"
 
 
 
