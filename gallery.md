@@ -35,6 +35,10 @@ gallery:
     image_path: /assets/images/K.jpg
     alt: "placeholder image K"
     title: کوروش بزرگ
+  - url: /assets/images/dar.jpg
+    image_path: /assets/images/dae.jpg
+    alt: "placeholder image dar"
+    title: داریوش بزرگ
   - url: /assets/images/shap.JPG
     image_path: /assets/images/shap.JPG
     alt: "placeholder image shap"
@@ -43,6 +47,10 @@ gallery:
     image_path: /assets/images/kh.JPG
     alt: "placeholder image kh"
     title: خشایارشا شاه شاهان
+  - url: /assets/images/tj.JPG
+    image_path: /assets/images/tj.JPG
+    alt: "placeholder image tj"
+    title: تخت جمشید
   - url: /assets/images/bio-photo1.jpg
     image_path: /assets/images/bio-photo1.jpg
     alt: "placeholder image bio-photo1"
@@ -59,6 +67,11 @@ gallery:
     image_path: /assets/images/M.JPG
     alt: "placeholder image M"
     title: "The Milky Way Galaxy"
+  - url: /assets/images/12.jpg
+    image_path: /assets/images/12.jpg
+    alt: "placeholder image 12"
+    title: "Space is beautiful"
+
 
 
 ---
