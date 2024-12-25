@@ -31,6 +31,10 @@ gallery:
     image_path: /assets/images/PNG image.png
     alt: "placeholder image PNG image"
     title: آرامگاه کوروش بزرگ
+    - url: /assets/images/k.jpg
+    image_path: /assets/images/k.jpg
+    alt: "placeholder image k"
+    title: کوروش بزرگ
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
