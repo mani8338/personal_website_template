@@ -36,7 +36,7 @@ gallery:
     alt: "placeholder image K"
     title: کوروش بزرگ
   - url: /assets/images/dar.jpg
-    image_path: /assets/images/dae.jpg
+    image_path: /assets/images/dar.jpg
     alt: "placeholder image dar"
     title: داریوش بزرگ
   - url: /assets/images/shap.JPG
@@ -75,6 +75,10 @@ gallery:
     image_path: /assets/images/sa.jpg
     alt: "placeholder image sa"
     title: "Saturn the most beautiful planet in the solar system"
+  - url: /assets/images/mb.jpeg
+    image_path: /assets/images/mb.jpeg
+    alt: "placeholder image mb"
+    title: "a good night"
 
 
 
