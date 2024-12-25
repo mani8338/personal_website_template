@@ -31,7 +31,7 @@ gallery:
     image_path: /assets/images/PNG image.png
     alt: "placeholder image PNG image"
     title: آرامگاه کوروش بزرگ
-    - url: /assets/images/k.jpg
+  - url: /assets/images/k.jpg
     image_path: /assets/images/k.jpg
     alt: "placeholder image k"
     title: کوروش بزرگ
