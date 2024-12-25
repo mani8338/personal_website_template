@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 permalink: /gallery/
-title: Gallery Iran
+title: Gallery Iran History
 tags: [gallery]
 modified: 9-14-2019
 comments: false
@@ -26,7 +26,11 @@ gallery:
   - url: /assets/images/da.jpg
     image_path: /assets/images/da.jpg
     alt: "placeholder image da"
-    title: "دریغ است ایران که ویران شود   کنام پلنگان و شیران شود"    
+    title: "دریغ است ایران که ویران شود/کنام پلنگان و شیران شود"    
+  - url: /assets/images/PNG image.png
+    image_path: /assets/images/PNG image.png
+    alt: "placeholder image PNG image"
+    title: آرامگاه کوروش بزرگ
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
