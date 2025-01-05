@@ -11,5 +11,6 @@ comments: true
 
 ![Exam day shots](images/sa.png)
 # Bullet List
-- sample item 1 [sample item 1](fccourse.liara.run)
+- sample item 1 [sample item 1](https://fccourse.liara.run/
+)
 - sample item 2
