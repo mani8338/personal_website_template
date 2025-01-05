@@ -8,8 +8,8 @@ modified: 1-4-2025
 comments: true
 ---
 
-# Exam day shots
-![Exam day shots](assets/images/sa.png)
+
+![Exam day shots](images/sa.png)
 # Bullet List
-- sample item 1
+- sample item 1 [sample item 1](fccourse.liara.run)
 - sample item 2
