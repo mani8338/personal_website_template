@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "MyFinal"
+    url: /myfinals/
   - title: "Memories"
     url: /memories/
   - title: "CV"
