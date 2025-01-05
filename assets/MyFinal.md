@@ -9,4 +9,3 @@ comments: true
 ---
 
 # Exam day shots
-![Exam day shots](assets/images/sa.png)
