@@ -1,9 +1,9 @@
 ---
 layout: single
 author_profile: true
-permalink: /MyFinal/
+permalink: /myfinal/
 title: will_be_updated
-tags: [MyFinal]
+tags: [myfinal]
 modified: 1-4-2025
 comments: true
 ---
