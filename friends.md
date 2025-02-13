@@ -9,7 +9,7 @@ comments: true
 ---
 
 ### دوستان
-* علی صداقت[telegram](http://t.me/aliesca2006) 
+* علی صداقت(http://t.me/aliesca2006) 
 [instagram](http://instagram.com/aliesca2006)
 * [سروش بیات](http://t.me/soroushbayat)
 * تایماز بیات
