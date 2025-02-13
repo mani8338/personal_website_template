@@ -10,6 +10,7 @@ comments: true
 
 ### دوستان
 * [سروش بیات](http://t.me/soroushbayat)
+* [علی صداقت](http://t.me/aliesca2006)
 * تایماز بیات
 * مهدی بلوری
 
